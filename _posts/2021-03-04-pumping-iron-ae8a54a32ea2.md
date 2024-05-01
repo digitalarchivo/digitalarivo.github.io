@@ -3,8 +3,8 @@ title: "Pumping Iron"
 author: "Arthur Hayes"
 date: 2021-03-04T23:00:14.909+0000
 last_modified_at: 2021-03-04T23:00:14.909+0000
-categories: ""
-tags: []
+categories: "Hayes"
+tags: [Hayes]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/ae8a54a32ea2/0*CM-cFZqdXj4Ir3PC
