@@ -3,8 +3,8 @@ title: "Stablecoin Triptych"
 author: "Arthur Hayes"
 date: 2021-07-08T22:59:37.233+0000
 last_modified_at: 2021-07-08T22:59:37.233+0000
-categories: ""
-tags: ["cryptocurrency","stablecoin-cryptocurrency","trading","ethereum"]
+categories: "Hayes"
+tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/7a062e745925/0*aslkAOhXRJfOEnc1

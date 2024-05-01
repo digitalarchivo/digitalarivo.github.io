@@ -3,8 +3,8 @@ title: "Certified Rare"
 author: "Arthur Hayes"
 date: 2021-09-16T23:01:09.927+0000
 last_modified_at: 2021-09-30T18:43:47.746+0000
-categories: ""
-tags: ["cryptocurrency","nft","trading"]
+categories: "Hayes"
+tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/34bd93df3294/0*wZO16j_V1E5Uf21k

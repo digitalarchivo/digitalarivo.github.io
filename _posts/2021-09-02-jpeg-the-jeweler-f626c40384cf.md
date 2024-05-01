@@ -3,8 +3,8 @@ title: "JPEG The Jeweller"
 author: "Arthur Hayes"
 date: 2021-09-02T22:57:25.790+0000
 last_modified_at: 2021-09-02T23:38:11.076+0000
-categories: ""
-tags: ["cryptocurrency","nft"]
+categories: "Hayes"
+tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/f626c40384cf/0*pvYxCW9VFI8QGZu6

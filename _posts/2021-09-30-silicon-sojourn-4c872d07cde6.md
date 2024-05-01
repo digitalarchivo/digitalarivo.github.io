@@ -3,8 +3,8 @@ title: "Silicon Sojourn"
 author: "Arthur Hayes"
 date: 2021-09-30T23:02:54.734+0000
 last_modified_at: 2021-09-30T23:02:54.734+0000
-categories: ""
-tags: ["metaverse","cryptocurrency","bi̇tcoi̇n"]
+categories: "Hayes"
+tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/4c872d07cde6/0*_XdCYWhlJ-3tMuxf

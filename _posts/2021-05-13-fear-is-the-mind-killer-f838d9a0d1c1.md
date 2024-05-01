@@ -3,8 +3,8 @@ title: "Fear Is The Mind-Killer"
 author: "Arthur Hayes"
 date: 2021-05-13T22:58:52.306+0000
 last_modified_at: 2021-05-13T22:58:52.306+0000
-categories: ""
-tags: ["crypto","trading","bitcoin","ethereum"]
+categories: "Hayes"
+tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/f838d9a0d1c1/0*sYYW8o2ilImjQ907
