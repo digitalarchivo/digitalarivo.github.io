@@ -2,7 +2,7 @@
 title: "Jason Zweig Good Advice Rarely Changes"
 date: 2014-10-11
 categories:
-  - Blog
+  - degenspartan
 tags:
   - degenspartan
   - gmgh
