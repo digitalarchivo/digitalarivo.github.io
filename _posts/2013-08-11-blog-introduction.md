@@ -1,6 +1,6 @@
 ---
 title: "Blog Introduction"
-date: 2013-07-04
+date: 2013-08-11
 categories:
   - blog
 tags:
