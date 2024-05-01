@@ -3,8 +3,8 @@ title: "Poor Wojak’s Almanack"
 author: "Arthur Hayes"
 date: 2021-03-18T22:01:15.200+0000
 last_modified_at: 2021-03-18T22:01:15.200+0000
-categories: ""
-tags: ["cryptocurrency","defi","trading"]
+categories: "Hayes"
+tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 ---
 
