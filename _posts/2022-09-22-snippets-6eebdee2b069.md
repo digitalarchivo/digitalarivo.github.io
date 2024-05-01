@@ -1,0 +1,161 @@
+---
+title: "Snippets"
+author: "Arthur Hayes"
+date: 2022-09-22T23:02:22.753+0000
+last_modified_at: 2022-09-23T06:42:32.288+0000
+categories: "Entrepreneurship Handbook"
+tags: ["trading","cryptocurrency","ethereum","bitcoin","economics"]
+description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
+image:
+  path: /assets/6eebdee2b069/0*nSD9gIHEchZfONbD
+---
+
+### Snippets
+
+\( _Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor be construed as a recommendation or advice to engage in investment transactions\._ \)
+
+
+![](assets/6eebdee2b069/0*nSD9gIHEchZfONbD)
+
+
+While crypto winter drags on, I feel compelled to address a handful of recent events in the crypto space\.
+
+Usually, I would use Twitter to get my ideas out on these slightly less meaty topics, but because of the short\-form nature of Twitter threads, I think they often do an injustice both to the original author of the idea I reference in a given thread, and my response to it\.
+
+In light of that, rather than penning one of my usual deep\-dive manifestos on a single subject this week, I’ll be taking the opportunity to cover a few different topical items that fell short of necessitating an entire blog post, but that I also felt I couldn’t fully flesh out within the character limit of everyone’s favourite hot take aggregator\.
+
+So, put down your smartphone — unless you’re one of those people who partakes in the serial\-killer\-level behaviour of reading longform articles on your smartphone, in which case, close your other apps, I guess? — and join me while we engage the higher functions of our noggins for a few minutes\.
+### **CZ : Binance Smart Chain :: US Government : The Ethereum Network**
+
+Do you believe in decentralisation and/or censorship\-resistant networks? I expect that most folks steeped in Lord Satoshi’s dogma — who likely make up the majority of my readers — would answer yes\.
+
+To which I say: bullshit\. Sure, you may enthusiastically buy, hold, and use dApps, tokens, BNB, and/or ETH, but I don’t think you — or at least, the vast majority of you — actually care about the ideology behind these technologies\.
+
+
+![](assets/6eebdee2b069/0*DFuQJaYmek8iKYnH)
+
+
+BSC is not decentralised, and never claimed to be — but that hasn’t stopped an explosion of activity on the network, nor has it had any effect on the appeal of BNB, which is the fifth most valuable crypto by market cap\.
+
+
+![](assets/6eebdee2b069/0*rXEP3LSkBtnl65nm)
+
+
+As of 21 September, Lido Finance, Coinbase, and Kraken together control slightly over 50% of all ETH staked on the beacon chain\. This means they are the most powerful validators and, in essence, they could censor what sorts of transactions are processed\. What do all three of these centralised entities have in common? They are all US\-owned companies or DAOs with major investments from US venture capitalists\.
+
+_According to [Crunchbase](https://www.crunchbase.com/organization/lido-b607) , 6 out of the 8 investors in Lido Finance are US\-based VCs or vehicles owned by Americas\._
+
+This concentration of network power in the hands of centralised entities \(who, I should remind you, are beholden to US laws and regulations\) didn’t exist under the Proof\-of\-Work system\. But, the users of the network voluntarily opted for the transition to Proof\-of\-Stake and staked their ETH, choosing by extension to accept this sort of centralisation and potential future censorship\. The US government did not force anyone’s hand here\.
+
+Does anyone seem to care? Nope\. I’m sure if Archangel Vitalik were behind me, radiating his usual “BDE”, he would argue that there are some protections in place to help ensure decentralisation — such as the way in which validators are punished for censoring transactions\. That’s a nice thought, but let’s pressure test it a bit\.
+
+The game theory behind how validators are incentivised to come to consensus got a lot trickier after the Proof\-of\-Stake “upgrade”\. I had a back and forth with [Jonathan Bier](https://blog.bitmex.com/ethereums-proof-of-stake-system-calculating-penalties-rewards/) , the head of BitMEX Research, about the different possible punishments faced by would\-be bad actors seeking to censor transactions, and I quickly realised that the situation is a bit FUBAR\. At a high level, here is how the punishment system works:
+- There is a way to slowly lose your ETH if < 33% of the network refuses to attest to blocks\. Slowly losing your ETH means that a validator is punished by reducing the deposit on a node\. Should the deposit drop below 16 ETH, that validation node is removed from the network\. This capital becomes dead capital as for the foreseeable future you cannot unstake ETH\.
+- There is a fast way to lose your ETH if > 33% of the network refuses to attest to blocks\. The penalties get exponentially worse quickly such that opposing validators quickly fall below the 16 ETH threshold and are booted from the network\.
+
+
+Here’s a hypothetical test of your ideological commitment — considering the above, would you support the high priests of the Ethereum network if they changed the rules to soften the punishment in order to save the large pool of capital sequestered with these validators, or would you support blind adherence to censorship resistance?
+
+We already saw a similar ideological test play out back in 2016, when [“The DAO”](https://www.coindesk.com/learn/2016/06/25/understanding-the-dao-attack/) locked up a large portion of all the ETH in existence — and we all know how that turned out\. Pretty much everyone at the time tacitly went along with the devs who forked the protocol so that folks could get their money back, rather than staying true to Ethereum’s supposed “code is law” ethos\.
+
+How much Ethereum Classic do you have in your portfolio…?
+
+This fairly egregious violation of Ethereum’s “code is law” ethos didn’t even put a dent in the avid fandom of its supporters, and had almost no negative repercussions for the network in the long run\. Ether, the crypto that powers the network, has retained its throne as the second most valuable crypto without much challenge, and Ethereum remains far and away the most used blockchain network in existence \(boasting almost 4x the daily transactions of Bitcoin\) \.
+
+In fairness, there are also still a large number of very successful dApps using the network in their quest to break down the cartels of trust in fields like finance\. But as the dApps scale and become significant financial players in the global ecosystem, their very success will likely threaten entrenched interests, and those threatened parties will have a myriad of levers to cut them down to size if indeed the network doesn’t highly value censorship resistance and/or decentralisation\.
+
+The pseudo\-decentralisation endured by users of the two most valuable “decentralised” internet computers \(BSC and Ethereum\) in some ways mirror the ideological sacrifices that people currently make every day when they use the major Web2 platforms\. Using these platforms comes with a not\-so\-hidden price: you either hand data over to the American government \(Facebook, Google, Amazon, Microsoft, Apple, etc\. \) or the Chinese Communist Party \(Tencent, Baidu, Weibo, Alibaba, Huawei, ByteDance, etc\. \) \. But even after being made aware of this icky reality, the vast majority of humanity has continued to voluntarily hand over their data sovereignty to the government in exchange for entertainment, online social interaction, and the ability to communicate\. No one forced you to buy a smartphone or spend a few hours a day on Instagram or TikTok — but you’ve clearly decided that entertainment and human connection are more valuable to you than data privacy\.
+
+Early investors in American and Chinese Web2 giants made generational wealth, and the same can be said for ETH holders\. ETH as a financial asset — fully tethered to the US\-led financial system and under the pretence of “decentralisation” — could still do extremely well in the near future\. The issue that I wrestle with is whether truly decentralised financial and social dApps can exist at scale \(i\.e\., with hundreds of millions of users\) given the above issues\. I don’t have the answer to that question, but by the time this issue matters to the market, I hope to have used the institutional investors as exit liquidity so that I may fully bask in the light of the one true Lord Satoshi\.
+
+As I have said in various interviews, the only thing that I believe matters in the short term \(i\.e\., the next three to six months\) is how ETH issuance per block falls under the new Proof\-of\-Stake model\. In the few days post\-merge, the rate of ETH emissions has dropped on average from a \+13,000 ETH per day to \-100 ETH\.
+
+The price of ETH continues to get smoked due to deteriorating USD liquidity, but give the changes in the supply and demand dynamics time to percolate\. Check back in a few months, and I suspect you’ll see that the dramatic reduction in supply has created a strong and rising floor on the price\.
+
+I wrote previously that I purchased $3,000 strike ETH/USD December 2022 call options\. I fear I might not have enough time left to get into the money on those options\. Take a gander at the table below\.
+
+
+![](assets/6eebdee2b069/1*QeZDCNn20RERUyP1Yn4Ssw.png)
+
+
+_Net ETH Emissions = **ETH: Issuance** — \[ \( **ETH: Gas Used Mean** / 10⁹ \) \* **ETH: Transaction Count** \]_
+
+_Note: Variables in bold are the actual fields used by Glassnode should you want to recreate my calculations\._
+
+Is the removal of almost $2 billion in sell pressure enough to cause the price to more than double in a little over three months from now? If my USD liquidity index turns higher, then maybe I stand a chance\. But hope is not an investment strategy\. I most likely overestimated how quickly the reduction in supply would translate into higher ETH fiat prices\. Versus Bitcoin, I am confident that ETH will continue to outperform\. The cleaner trade would have been to buy options on the ETH/BTC cross\. But I already had that position in the physical, and I like trading, so I went for it\. Oh well…
+### **Institutional Abandonment**
+
+“The bull market can only begin once the institutions come back” is a common trope I’ve been seeing a lot lately\. The reality is that institutions are beta\-chasing muppets– Nostra\-muppets, rather than Nostradamus\. They buy the top and sell the bottom\. That is because of their compensation incentives\.
+
+Institutional money managers and fiduciaries get paid to amass a large pool of assets and charge a management fee\. Their mediocrity is protected by various financial regulations\. Go to the right school, study the right thing, wear the right costume, and you too can make a few hundred thousand dollars a year using basic excel skills like =vlookup\( \) and =sumproduct\( \) \.
+
+Let me dismount from my high horse for a moment\. At one point, I made a living selling market access and trading services to said muppets\. Many of these hard\-working humans are muppets because that is what they are paid to be\. But when they manage their own money, many recognise the value of crypto and are keen to participate\. As a fiduciary, you care about arithmetic year\-on\-year returns, and the bonus clock resets January 1st every year\. As one of the heads of a family unit, you care more about compounded returns over time that outpace the rise in energy prices\. The clock never stops, and you likely take a more holistic view to investing and saving\.
+
+All of that said, the folks predicting that funds from institutional investors will lead the next bull market aren’t talking about those investors’ personal portfolios\. So, back onto my high horse I go\.
+
+The number one goal of any organism in any milieu is survival, and money managers are no exception\. In their working lives, fiduciaries want to survive the year to receive their next bonus\. That means they will buy crypto only when it’s safe to do so\. Safety is found when the price has already risen multiple times off of the bottom\. When the market turns lower and they lose their investors’ money, at least they can defensibly say they bought when everyone else was buying\.
+
+Therefore, if you are waiting for institutional investors to re\-discover crypto and reignite the next bull market, you are setting yourself up to be yet another mug on the “faces of REKT” wallpaper\.
+### **Caustic Correlation**
+
+Isn’t it sad that Bitcoin \(and crypto in general\) has become just a high\-powered measure of USD liquidity? Isn’t it a bummer that crypto moves in lockstep with the Nasdaq 100 index, which is composed of large\-cap American tech companies? I thought crypto was supposed to be the money of the people and negatively correlated with the TradFi system\. Crypto has failed — sigh\!
+
+Those are the sentiments of many market analysts who are steeped in the ways in which TradFi markets function\. Many of these same analysts fully believe that the Fed and its cadre of central banker sycophants will continue raising short\-term interest rates for the foreseeable future\. And given that these actions remove credit from the system, these strategists are bearish on long\-duration tech equities and therefore **EXTREMELY** bearish on the future price appreciation prospects of crypto\.
+
+**USD Liquidity Index \(white\) vs\. Bitcoin \(yellow\) vs\. Nasdaq 100 \(green\)**
+
+
+![](assets/6eebdee2b069/0*1H2FnTTZKgWj-4E1)
+
+
+The above chart completely jives with the sentiments of these market analysts\. But are they right?
+
+**_Bitcoin Price = USD Liquidity \+ Technology_**
+
+The USD liquidity situation will do what it does, and this is the price driver that most focus on\. The technology — and by that, I mean a decentralised network of individuals validating data in a censorship\-resistant manner — does not get enough credit\. And it will continue to not get credit until these properties are shown to be extremely valuable\.
+
+These technological properties are impossible to value _a priori_ \. This is mainly due to how we as humans think about the future\. We tend to take the recent past and forecast it into the future\. The recent past for most humans that live in developed countries with large economies has been ‘aight from a financial services perspective\. Fiat currencies and their attendant financial systems work\. You earn money, and you save and invest it without fear of confiscation by overbearing governments\.
+
+As I pointed out in my most recent essay “ [For the War](for-the-war-fd5509d525d) ”, the recent past was one of economic peace between the two major blocs \(US / EU vs\. Eurasia / Russia / China\) \. But using its Western European vassals, the US political elite is determined to stymie the economic integration of the Eurasian landmass\. The Russians did them a favour by invading Ukraine and not winning quickly\. Now, the political elite can use the kinetic war in Ukraine as the _casus belli_ for intensifying the economic war that was always going to happen between a descendant Pax America and an ascendant China and her vassals\. In case you missed it, at the recent Shanghai Cooperation Organization jamboree in Samarkand Uzbekistan Putin gave the Chinese everything they wanted in return for Xi not diplomatically abandoning Russia\. We drankin’ Maotai, not Stolichnaya\.
+
+The war is raging in cold places like cyberspace\. You can’t use Instagram in China, and if some US politicians get their way, you wouldn’t be able to use TikTok in America\. If your passport is Russian, your Dollars, Euros, Pounds, etc\. aren’t yours anymore\. And Russia now only allows purchases of hydrocarbons in RUB, Gold, or currencies of “friendly” nations\. The global financial and energy system is balkanising and it will lead to intense pockets of inflation\. In this scenario, a global currency operated and owned by and for humanity has infinite value\. This is when the Bitcoin technology will show its true worth and buttress the right\-hand side of the value proposition laid out above\.
+
+Financial analysts completely dismiss this part of the equation because they are human\. You can’t value it before it’s valuable, and therefore it is ascribed zero value in any sort of model\. So, while I completely agree that the Bitcoin price will juke and jive in line with USD liquidity in the immediate future, as this economic war intensifies, I expect the value of the Bitcoin technology will begin to assert itself\.
+### **Impulsive**
+
+While the USD liquidity index explains very nicely the recent moves in Bitcoin, it doesn’t have much predictive power\. If we want to forecast what might happen to Bitcoin’s price going forward, instead of the absolute value of the index, what we care about is the liquidity situation today relative to the situation in the recent past\. This is the delta, change, or as I will refer to it, the “impulse” of the index\.
+
+As always, forecasting is an art and not a science\. By curve\-fitting the impulse, I am making assumptions about timing\. In this case, I want an impulse that is not too volatile, but that also moves quickly to account for the fast\-changing nature of Bitcoin\. I settled on a 3\-month index\. The components of the index are updated weekly \(The Fed Balance Sheet and Treasury General Account\) and daily on weekdays \(Reverse Repo Overnight and Standing Repo Facility balances\) \. There are usually 252 trading days a year in America, so if I want a 3\-month impulse, I’m talking about 63 trading days\.
+
+
+![](assets/6eebdee2b069/0*WhoOLM_n1qTfZ-CC)
+
+
+Very simply, if the impulse is positive, I’m happy being long Bitcoin, and if the impulse is negative, I’m happy either not having a position or being short Bitcoin\.
+
+That simple statement does not do traders much good\. As traders, we care about inflection points\. In November of 2021, the impulse was positive — that is, USD liquidity was increasing vs\. the three months prior — but it was the top of the market\. If the impulse is rising but that rise is decelerating, we want to exit long positions and possibly go short\. If the impulse is falling but that fall is decelerating, we want to exit short positions and possibly go long\.
+
+I haven’t found a momentum or gamma indicator I’m happy with that gives “reliable” signals of trend reversal, so I didn’t include one\. I’m sure some readers well\-versed in various charting techniques could come up with something\.
+
+The current situation is choppy\. USD liquidity conditions were tightened materially from November 2021 until July 2022\. The chart clearly shows the fall in the 3m impulse, and the corresponding fall in the Bitcoin price\. In recent weeks, the impulse has chopped around 0%\.
+
+From a USD liquidity perspective, the remainder of the year features a Fed committed to reducing the size of its balance sheet, and the US Treasury issuing lots of debt to fund the government\. Both of those actions remove liquidity from the system\. That should cause the impulse to fall, and take Bitcoin down to test its June lows of $17,500\.
+
+The mitigating factor is that all this tightening of liquidity will destroy the financial markets of the US and the world\. The highly\-levered, USD\-based global economy cannot survive at current levels of activity with significantly less USD liquidity\. This will break something\. My guess is that some issue will present itself in how the US Treasury market functions\. The Fed, the Treasury, the US domestic banks, and large foreign holders like Japan and China are all **SELLING** bonds\. Who is going to buy all this debt at yields still well below government measures of inflation? If the Fed and Treasury want to ensure the most important asset market to the global financial system — the US Treasury market — is pristine, they may have to back off on their plans to dramatically remove USD from the system\. Politics is a reactive exercise, so we will likely have to see the US Treasury market break before they change course\.
+
+There is chatter that this “strengthen the USD” policy the Fed and Treasury are pursuing might get reversed at the G20 piss\-up in Bali from November 15 to 16\. The EU, the tip of the anti\-Russia / China spear, cannot survive a strong USD when they must now import many more LNG tankers filled to the brim with that sweet, sweet all\-American natural gas \(cue Team America’s _“ [America, Fuck Yeah\!](https://www.youtube.com/watch?v=KtJJC0nWs9s) ”\)_ \. This shindig is also after the US midterm elections, and thus the political will to “fight” inflation is likely to fall quicker than TerraUSD\.
+### **Scorecard**
+
+The Fed has definitely not pivoted from their policy of quantitative tightening or short\-term rates, as I suggested they might in a few of my past essays\. However, I never said I believed the Fed would make the pivot before the midterm elections\. I still have time\!
+
+As we watch the gyrations of the USD liquidity index and its impulse, the Bitcoin level that longs should be worried about is $17,500\. The most likely course of action is a re\-test of that low\. Whether it holds the line or not is entirely dependent on the trajectory of the USD liquidity index’s impulse\.
+
+On ETH, we are only one week post\-merge\. It appears that the network is functioning normally, which is great\. Tech is hard and congratulations seem to be in order for the Ethereum core devs who pulled off this incredible feat\. As expected, the amount of ETH has declined by almost 13,000 per day\.
+
+The price since I wrote my two bullish pieces on ETH has capitulated\. I remain confident that the structural reduction in the supply of ETH will definitely lead to an outperformance against Bitcoin — but if the Fed and Treasury continue with their USD liquidity reduction plans, I have little confidence in ETH’s ability to get to [Five Ducking Digits](five-ducking-digits-cd92a7ab72ce) by year end\. And much to the chagrin of my portfolio, I believe my Dec options will expire worthless\.
+
+With that said, am I reducing the weight of ETH and ERC\-20 shitcoins in my portfolio? Absolutely fucking not\! Because I hold physical coins, I do not have to worry about time and its cost\. Obviously, there is an opportunity cost vs\. holding fiat in short\-term US treasuries, but I already have a portion of my overall portfolio allocated to that\. I’m also long interest rates via a portfolio of exotic derivatives\. In the crypto market, it pays to wait, and I am structurally positioned to be patient\.
+
+
+
+_[Post](https://ehandbook.com/snippets-6eebdee2b069) converted from Medium by [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown)._
