@@ -2,7 +2,7 @@
 title: "Blog Introduction"
 date: 2013-08-11
 categories:
-  - blog
+  - degenspartan
 tags:
   - degenspartan
   - gmgh
