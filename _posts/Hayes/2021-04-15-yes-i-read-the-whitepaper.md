@@ -4,7 +4,7 @@ author: "Arthur Hayes"
 date: 2021-04-15T22:59:59.731+0000
 last_modified_at: 2021-04-16T13:59:52.625+0000
 categories: "Hayes"
-tags: ["hayes,"blog"]
+tags: "hayes,"blog"
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/59cfa2ea9c2c/0*xf-T1zeQYtnwq9dS
