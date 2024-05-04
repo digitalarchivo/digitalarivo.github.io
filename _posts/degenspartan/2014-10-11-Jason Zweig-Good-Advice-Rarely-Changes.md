@@ -9,8 +9,6 @@ tags:
 link: https://github.com
 ---
 
-# Jason Zweig: Good Advice Rarely Changes
-
 *BY GOT MONEY GOT HONEY · OCTOBER 11, 2014*
 
 Jason Zweig is a columnist on the WSJ, and I would argue probably one of the most influential writers in the modern finance world.
