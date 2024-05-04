@@ -3,7 +3,7 @@ title: "All Ye Faithful"
 author: "Arthur Hayes"
 date: 2021-10-14T23:02:46.835+0000
 last_modified_at: 2021-10-15T17:04:22.068+0000
-categories
+categories:
   - "Hayes"
 tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
