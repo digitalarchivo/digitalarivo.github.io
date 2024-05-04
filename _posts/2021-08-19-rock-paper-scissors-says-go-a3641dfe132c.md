@@ -1,4 +1,4 @@
----
+```
 title: "Rock, Paper, Scissors Says GO!"
 author: "Arthur Hayes"
 date: 2021-08-19T23:02:48.075+0000
@@ -8,7 +8,7 @@ tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/a3641dfe132c/0*VgxL4bNVVYpD3Ghr
----
+```
 
 ### Rock, Paper, Scissors Says GO\!
 
