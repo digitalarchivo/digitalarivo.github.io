@@ -3,7 +3,8 @@ title: "Rock, Paper, Scissors Says GO!"
 author: "Arthur Hayes"
 date: 2021-08-19T23:02:48.075+0000
 last_modified_at: 2021-08-19T23:02:48.075+0000
-categories: "Hayes"
+categories
+  - "Hayes"
 tags: ["hayes,"blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
