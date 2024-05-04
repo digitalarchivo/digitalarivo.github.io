@@ -3,8 +3,8 @@ title: "I Still Can’t Draw a Line"
 author: "Arthur Hayes"
 date: 2021-06-24T22:59:41.323+0000
 last_modified_at: 2021-06-24T22:59:41.323+0000
-categories: "Hayes"
-tags: ["hayes,"blog"]
+categories: ["Hayes"]
+tags: ["hayes", "blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/7d136d73e5ff/0*coGmt2YW1lbVb8AY
