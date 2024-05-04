@@ -3,8 +3,8 @@ title: "Grow Up or Blow Up"
 author: "Arthur Hayes"
 date: 2021-04-29T23:00:32.728+0000
 last_modified_at: 2021-04-29T23:00:32.728+0000
-categories: "Hayes"
-tags: ["hayes,"blog"]
+categories: ["Hayes"]
+tags: ["hayes", "blog"]
 description: "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…"
 image:
   path: /assets/3fad18d2a1fc/1*4EQWFL-4QFcSLWktNDK_dQ.png
