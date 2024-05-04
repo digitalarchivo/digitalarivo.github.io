@@ -22,7 +22,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 <<<<<<< HEAD
+<<<<<<< HEAD
 minimal_mistakes_skin: "dirt" # "default" "air", "aqua", ...
+=======
+minimal_mistakes_skin: default
+>>>>>>> parent of 168acd3 (Update _config.yml)
 =======
 minimal_mistakes_skin: default
 >>>>>>> parent of 168acd3 (Update _config.yml)
